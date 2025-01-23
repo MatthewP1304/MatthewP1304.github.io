@@ -13,11 +13,14 @@
 
 ## Relevant Courses
 
-### Industrial Mathematics
+**Industrial Mathematics**
 *University of Edinburgh, Autumn 2024*
+test
 
-### Statistical Case Studies
+**Statistical Case Studies**
 *University of Edinburgh, Autumn 2024 - Spring 2025*
 
-### Statistical Computing
+**Statistical Computing**
 *University of Edinburgh, Autumn 2023*
+
+---
