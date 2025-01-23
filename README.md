@@ -2,7 +2,7 @@
 
 ## Education
 
-BSc, Mathematics 
+### BSc, Mathematics 
 
 *University of Edinburgh, expected graduation July 2025*
 
