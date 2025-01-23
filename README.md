@@ -2,4 +2,4 @@
 
 ## Education
 
-Uneducated
+BSc, Mathematics
