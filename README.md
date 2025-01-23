@@ -2,7 +2,7 @@
 
 ## Education
 
-BSc, Mathematics
-*Expected graduation July 2025*
+BSc, Mathematics 
+<p>*Expected graduation July 2025*
 
 Advanced Highers
