@@ -26,7 +26,7 @@ test
 
 test
 
-[Authorship Attribution Project](https://github.com/NathanExley/StatisticalCaseStudies)
+[Authorship Attribution Project](https://github.com/NathanExley/StatisticalCaseStudies) \
 [AI Detection Project](https://github.com/nishideps/AI-Detection)
 
 **Statistical Computing -**
