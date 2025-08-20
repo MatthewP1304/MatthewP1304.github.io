@@ -2,8 +2,8 @@
 
 
 ## Education
-**University of Edinburgh** \
-*Mathematics BSc., expected graduation July 2025*
+**Bachelor of Science with Honours Mathematics** \
+*1st Class, University of Edinburgh 2021-2025*
 
 **Lasswade High School**  
 *Advanced Highers - Mathematics A, Physics A, Chemistry A* \
