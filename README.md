@@ -35,7 +35,7 @@ Developed practical solutions to industry-based problems across sectors such as 
 Completed consultancy-style projects involving complex real-world data analysis, working collaboratively in teams to deliver clear, structured reports using R and LaTeX. Investigated the authorship of Frankenstein using stylometric methods, then applied these techniques to develop and validate an AI text detector.
 
 [Authorship Attribution Project](https://github.com/NathanExley/StatisticalCaseStudies) \
-[AI Detection Project](https://github.com/nishideps/AI-Detection)
+[AI Detection Project](https://github.com/MatthewP1304/AI-Detection)
 
 
 
